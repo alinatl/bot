@@ -1,0 +1,1 @@
+bbot: python3 bbot.py

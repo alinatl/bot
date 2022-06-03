@@ -1,0 +1,4 @@
+pymorphy2==0.9.1
+pymorphy2-dicts-ru==2.4.417127.4579844
+networkx==2.6.3
+pyTelegramBotAPI==4.5.1
